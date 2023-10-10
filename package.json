@@ -1,0 +1,14 @@
+{
+  "name": "ecomerce_relojes",
+  "version": "1.0.0",
+  "description": "Este es un proyecto para el curso de backend en coderhouse",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Da Rosa Yonatan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

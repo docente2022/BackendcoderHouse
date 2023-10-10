@@ -1,0 +1,73 @@
+[
+  {
+    "id": "1",
+    "title": "Reloj Casio G-Shock",
+    "description": "Reloj resistente al agua y a los golpes",
+    "price": 150,
+    "thumbnail": "ruta/imagen1.jpg",
+    "code": "CASIO001",
+    "stock": 10,
+    "category": "Deportivos",
+    "thumbnails": [
+      "https://d2r9epyceweg5n.cloudfront.net/stores/848/323/products/820892-mla27707306371_072018-o-2e83c048068a46ad9c15323612187158-640-0.jpg"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Reloj Rolex Submariner",
+    "description": "Reloj de lujo sumergible",
+    "price": 10000,
+    "thumbnail": "ruta/imagen3.jpg",
+    "code": "ROLEX001",
+    "stock": 5,
+    "category": "Lujo",
+    "thumbnails": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6mbBjs00ZjiIFaQGr1xDor2j5PunmNbuR_g&usqp=CAU"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Reloj Timex Ironman",
+    "description": "Reloj deportivo con cronómetro",
+    "price": 90,
+    "thumbnail": "ruta/imagen5.jpg",
+    "code": "TIMEX001",
+    "stock": 20,
+    "category": "Deportivos",
+    "thumbnails": [
+      "https://acdn.mitiendanube.com/stores/001/417/925/products/imagen_2023-05-26_2243099761-5d650c9b1206f4c65e16851518981062-1024-1024.png"
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Reloj Swatch Originals",
+    "description": "Reloj de diseño colorido y moderno",
+    "price": 50,
+    "thumbnail": "ruta/imagen7.jpg",
+    "code": "SWATCH001",
+    "stock": 15,
+    "category": "Moda",
+    "thumbnails": [
+      "https://static.swatch.com/images/product/YVS486/sa360/YVS486_53.png"
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Reloj Citizen Eco-Drive",
+    "description": "Reloj con carga solar",
+    "price": 200,
+    "thumbnail": "ruta/imagen9.jpg",
+    "code": "CITIZEN001",
+    "stock": 8,
+    "category": "Ecológicos",
+    "thumbnails": [
+      "https://citizenwatch.com.ar/cdn/shop/products/EM097355A_1024x1024.jpg?v=1689182422"
+    ]
+  },
+  {
+    "id": "rhnp7bz9y"
+  },
+  {
+    "id": "lyzme8se7"
+  }
+]
